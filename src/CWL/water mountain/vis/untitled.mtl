@@ -1,0 +1,132 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl 000_51ED067A_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/51ED067A_c.bmp
+
+newmtl 001_75DC2EEF_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/75DC2EEF_c.bmp
+
+newmtl 002_68E1A622_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/68E1A622_c.bmp
+
+newmtl 003_3B9F6D85_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/3B9F6D85_c.bmp
+
+newmtl 004_174FA64E_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/174FA64E_c.bmp
+
+newmtl 005_312907DF_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/312907DF_c.bmp
+
+newmtl 006_795ECD86_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/795ECD86_c.bmp
+
+newmtl 007_287771FA_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/287771FA_c.bmp
+
+newmtl 008_621A6A0A_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/621A6A0A_c.bmp
+
+newmtl 010_default
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl 037_5D0F35B7_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/5D0F35B7_c.bmp
+
+newmtl 042_70E8CDE_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/70E8CDE_c.bmp
+
+newmtl 046_273462A4_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/superb64-revived/src/CWL/water mountain/273462A4_c.bmp
