@@ -1,0 +1,112 @@
+# Blender 3.5.1 MTL File: 'base.blend'
+# www.blender.org
+
+newmtl 009_432021_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tmp/vrml to obj - trash/432021_c.bmp
+
+newmtl 010_3AE92A9C_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tmp/vrml to obj - trash/3AE92A9C_c.bmp
+
+newmtl 011_20B1375C_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tmp/vrml to obj - trash/20B1375C_c.bmp
+
+newmtl 012_2FFC08F5_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tmp/vrml to obj - trash/2FFC08F5_c.bmp
+
+newmtl 013_66E6C696_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tmp/vrml to obj - trash/66E6C696_c.bmp
+
+newmtl 014_46B89AC1_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tmp/vrml to obj - trash/46B89AC1_c.bmp
+
+newmtl 015_3342EBC1_c.bmp
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tmp/vrml to obj - trash/3342EBC1_c.bmp
+
+newmtl None.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wmpainting2.png
+
+newmtl None.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ccfPainting1.png
+
+newmtl None_ccfPainting2.png.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wmpainting1.png
+
+newmtl None_ccfPainting2.png.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ccfPainting2.png
