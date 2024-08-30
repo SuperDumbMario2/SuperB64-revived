@@ -1,0 +1,16 @@
+{
+  "Scaling": 500.0,
+  "ReduceDupVerts": false,
+  "Fog": {
+    "Color": "",
+    "Type": 8
+  },
+  "ResizeTextures": false,
+  "CenterModel": true,
+  "Shading": {
+    "AmbientColor": "127, 127, 127",
+    "DiffuseColor": "White",
+    "DiffusePosition": null
+  },
+  "TransparencyLimit": 80
+}
