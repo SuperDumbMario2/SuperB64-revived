@@ -1,0 +1,4 @@
+SUPERB64 REVIVED 0.01 B0002
+Added new level "Jolly Lava Bay". Level is lifeless currently (like Exploding Meadow in B0001) (2nd and last stars requires precise movement) (low amount of enemies planned becuz lvl is alr hard lol)
+Added some enemies and a cannon to Exploding Meadow. This level is complete!
+Added Wing Cap Switch Palace. (The level is complete!)
