@@ -1,0 +1,3 @@
+SUPERB64 REVIVED 0.01 B0003
+Added custom star sprite.
+Added "Calm Water Land"

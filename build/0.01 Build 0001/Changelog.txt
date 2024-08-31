@@ -1,0 +1,3 @@
+SUPERB64 REVIVED 0.01 B0001
+Added stars to Exploding Meadow, resulting into it being beatable. Level is still lifeless.
+Set new music to Exploding Meadow.
