@@ -1,0 +1,6 @@
+SUPERB64 REVIVED 0.04 B0014
+Reduced Prince Bob-omb's health to 1 point (Actually done in B0013 but I forgot to put that into the changelog)
+Added Eternal Fort
+Changed warps on Delicious Cake
+Added music tracks for Delicious Cake and Eternal Fort. Delicious Cake isn't very good imo but Eternal Fort track is pretty fire.
+(Note - This is the last update that adds a new star, a new level and before release candidates. The next update will finalize levels, RC2 will finalize level models).
