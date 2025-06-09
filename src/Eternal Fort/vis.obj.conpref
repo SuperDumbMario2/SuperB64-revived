@@ -1,0 +1,16 @@
+{
+  "Scaling": 50.0,
+  "ReduceDupVerts": false,
+  "Fog": {
+    "Color": "Black",
+    "Type": 6
+  },
+  "ResizeTextures": false,
+  "CenterModel": true,
+  "Shading": {
+    "AmbientColor": "White",
+    "DiffuseColor": "165, 165, 165",
+    "DiffusePosition": null
+  },
+  "TransparencyLimit": 80
+}
