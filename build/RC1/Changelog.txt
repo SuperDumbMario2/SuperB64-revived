@@ -1,0 +1,6 @@
+SUPERB64 REVIVED RC1 (B0015)
+Added 2 cannons to Exploding Meadow
+Added a cannon to Whomp's Mountain
+Removed an unused Tall Tall Pyramid level
+Modified the castle grounds spawn so Mario will not appear in sky
+Please note that due to the nature of the next update (Model of almost every level will be almost 100% updated) it may come out much later.
